@@ -128,6 +128,8 @@ Run the django server and execute the html file.
 </html>
 ```
 ## Output:
+# Server Output:
+![sexp4](https://user-images.githubusercontent.com/117974950/234636081-d25db89a-bf06-4861-99e9-b15e1519abd9.png)
 # Place:
 ![place](https://user-images.githubusercontent.com/117974950/234633115-379acf6f-8783-43ee-a62d-28ae39910c3a.png)
 # Phoenix Mall:
